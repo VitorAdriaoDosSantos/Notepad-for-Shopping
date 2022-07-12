@@ -1,0 +1,1 @@
+A simple and intuitive product notebook design with a list and sum of the prices of those products at the end, with an option to add new products if you wish. Very useful and common in everyday life, especially in situations with a shopping list, such as a trip to the supermarket or the hardware store.
